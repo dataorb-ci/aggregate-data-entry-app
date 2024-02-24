@@ -1,8 +1,8 @@
 {
-  "app_hub_id": "4a5b87dc-015c-47db-ae77-f2f42e3bbb5a",
+  "app_hub_id": "5b5b87dc-015c-47db-ae77-f2f42e3bbb6a",
   "appType": "APP",
-  "short_name": "aggregate-data-entry",
-  "name": "Data Entry (Beta)",
+  "short_name": "aggregate-entry",
+  "name": "Aggregate Data Entry",
   "description": "",
   "version": "100.3.10",
   "core_app": true,

@@ -1,8 +1,8 @@
 {
-  "id": "4a5b87dc-015c-47db-ae77-f2f42e3bbb5a",
-  "name": "aggregate-data-entry",
+  "id": "5b5b87dc-015c-47db-ae77-f2f42e3bbb6a",
+  "name": "aggregate-entry",
   "type": "app",
-  "title": "Data Entry (Beta)",
+  "title": "Aggregate Data Entry",
   "minDHIS2Version": "2.39",
   "coreApp": true,
   "version": "100.3.10",
